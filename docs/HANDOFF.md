@@ -4,7 +4,7 @@
 
 ## Estado atual
 
-Versão inicial do site pronta para validação: `index.html` (one-page) + `404.html`, foto da Dra. Jéssica no hero, botão flutuante de WhatsApp, layout responsivo. Repositório criado e versionado no GitHub.
+Versão inicial do site pronta para validação: `index.html` (one-page) + `404.html`, foto da Dra. Jéssica no hero, botão flutuante de WhatsApp, layout responsivo. Repositório público no GitHub; prévia publicada via GitHub Pages em https://luandantastm.github.io/site-jessica/ (cada push na `main` atualiza a prévia).
 
 ## Pendências
 

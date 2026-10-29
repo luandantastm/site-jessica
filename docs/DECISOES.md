@@ -11,5 +11,6 @@ Append-only. Cada sessão adiciona uma seção com a data. Decisões novas que s
 - **Nome exibido:** "Dra. Jéssica Coli" (com acento), conforme informado pelo Luan.
 - **Conformidade:** seguir a Resolução CFM 2.336/2023 (nome + CRM + RQE visíveis, sem sensacionalismo, aviso de caráter informativo).
 - **Conteúdo provisório:** textos de bio, formação, atendimentos e FAQ são rascunhos a validar com a Dra. Jéssica.
-- **Versionamento:** repositório privado `luandantastm/site-jessica` no GitHub, branch `main`.
+- **Versionamento:** repositório `luandantastm/site-jessica` no GitHub, branch `main` (criado privado; tornado público no mesmo dia, ver abaixo).
+- **Prévia pública:** repositório tornado público e GitHub Pages ativado (branch `main`, raiz) em https://luandantastm.github.io/site-jessica/ para mostrar à Dra. Jéssica. É só prévia; a hospedagem definitiva continua sendo AWS.
 - **Fluxo de trabalho:** skills `/retomar` e `/fechar-dia` para continuidade entre sessões.

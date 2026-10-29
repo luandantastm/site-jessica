@@ -1,7 +1,8 @@
 # Site da Dra. Jéssica Coli — Ginecologista
 
 Site institucional da Dra. Jéssica Coli (médica ginecologista, irmã do Luan, dono do repositório).
-Repositório: https://github.com/luandantastm/site-jessica
+Repositório: https://github.com/luandantastm/site-jessica (público)
+Prévia: https://luandantastm.github.io/site-jessica/ (GitHub Pages, atualiza a cada push na `main`; hospedagem definitiva será AWS)
 
 ## Regras do projeto
 
